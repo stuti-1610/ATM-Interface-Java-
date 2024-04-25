@@ -26,19 +26,3 @@ Follow these instructions to get a copy of the ATM Interface project up and runn
 * Provide the necessary inputs when prompted, such as account number, PIN, withdrawal/deposit amount.
 * The program will execute the selected operation and display the result or any error messages.
 * Repeat the process for additional operations or exit the program when finished.
-
-## Contributing
-Contributions to the Java ATM Interface project are welcome! If you find any issues or have suggestions for improvements,
-please feel free to submit a pull request or open an issue.
-
-## Author
-[Aravind S](https://www.linkedin.com/in/aravind-s-84430125a/)
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Feedback
-
-If you have any feedback, please reach out to me at aravind.slg1@gmail.com.
-
-**Happy banking with the Java ATM Interface!**
