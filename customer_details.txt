@@ -1,0 +1,16 @@
+First Name: Aravind
+Last Name: S
+Age: 21
+User ID: 1010101
+PIN: 0
+Phone Number: 8888877777
+Balance: 4000
+---------------------------
+First Name: Balu
+Last Name: S
+Age: 24
+User ID: 2020202
+PIN: 1111
+Phone Number: 9999900000
+Balance: 1000
+---------------------------
